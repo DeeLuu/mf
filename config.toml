@@ -1,0 +1,4 @@
+baseURL = "http://mealferry.com/"
+languageCode = "en-us"
+title = "MealFerry: Your NextGen Meal Plan"
+theme = "kube"
